@@ -10,7 +10,7 @@
   }
 }
 .sidebar-container {
-  color: #bfbfbf;
+  color: #080808;
   font-size: 14px;
 }
 .sidebar-container h5 {
@@ -852,7 +852,7 @@ img::-moz-selection {
   border: 1px solid rgba(255, 255, 255, 0.8);
   border-radius: 999em;
   padding: 0 10px;
-  color: #ffffff;
+  color: #080808;
   line-height: 24px;
   font-size: 12px;
   text-decoration: none;
