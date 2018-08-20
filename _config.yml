@@ -1,9 +1,9 @@
 # Site settings
 title: LittleRoundのBlog
 SEOTitle: 小圆的博客 | WYTのBlog
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg-geek.jpg
 email: ibewhour@163.com
-description: "少吃零食多运动"
+description: "少吃零食睡觉"
 keyword: "iOS, Apple, iPhone"
 url: "http://wyt1996.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/wyt1996/wyt1996.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "早睡早起多运动"
+sidebar-about-description: "早睡早起多运动 少吃零食多睡觉"
 sidebar-avatar: /img/about-BY-gentle.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
