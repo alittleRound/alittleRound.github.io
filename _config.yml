@@ -1,6 +1,6 @@
 # Site settings
-title: WYTのBlog
-SEOTitle: 小圆WYT的博客 | WYTのBlog
+title: LittleRoundのBlog
+SEOTitle: 小圆的博客 | WYTのBlog
 header-img: img/post-bg-desk.jpg
 email: ibewhour@163.com
 description: "少吃零食多运动"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/wyt1996/wyt1996.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "早睡早起多运动"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
